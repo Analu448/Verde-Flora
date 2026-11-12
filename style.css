@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #FFFAF0;
+    min-height: 100vh;
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F0F5FF;
+    padding: 15px 50px;
+    height: 65px;
+    font-family: 'Great Vibes';
+    font-size: larger;
+}
+
+.rodape2 {
+    display: flex;
+    align-items: center;
+    padding: 20px 20px;
+    gap: 20px;
+}
+
+.rodape2 h4 {
+    background-color: #588547;
+    padding: 15px 40px;
+    gap: 5px;
+    border-radius: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    padding: 20px 60px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+}
+
+.card a {
+    color: black;
+    font-size: xx-large;
+    font-family: 'Great Vibes', cursive;
+    align-self: center;
+    background-color: #F0F5FF;
+    padding: 5px 40px;
+    gap: 5px;
+    border-radius: 30px;
+}
+
+.indicadores {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+}
+
+.indicadores a {
+    color: black;
+    font-size: xx-large;
+    font-family: 'Great Vibes', cursive;
+    align-self: center;
+}
+
+.card h1 {
+    font-family: 'Great Vibes', cursive;
+}
+
+.mainimage {
+    position: absolute;
+    top: 100px;
+    left: 330px;
+    width: 1250px;
+    z-index: 1;
+}
+
+.paginainicial {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: #F0F5FF;
+    padding: 40px;
+    gap: 20px;
+    width: 40%;
+    border-radius: 45px;
+    z-index: 2;
+    height: 100px;
+    margin-top: 100px;
+}
+
+.linha {
+    width: 100%;
+    border-top: 3px solid #588547;
+    margin-bottom: 10px;
+}
+
+.promoção {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Great Vibes';
+    font-size: xx-large;
+    background-color: #588547;
+    border-radius: 50px;
+    width: 170px;
+    height: 70px;
+    margin-left: 60px;
+}
+
+.promoções {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    gap: 30px;
+
+}
+
+.produto-i h3 {
+    font-family: 'Great Vibes';
+    font-size: xx-large;
+}
+
+.produto-i {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 40%;
+}
+
+.imagens2 {
+    background-color: #F0F5FF;
+    border-radius: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+    height: 200px;
+}
+
+.imagens2 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+}
+
+.catalogo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    gap: 40px;
+}
+
+.titulo {
+    background-color: #F0F5FF;
+    font-size: xx-large;
+    font-family: 'Great Vibes';
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    border-radius: 40px;
+    width: 550px;
+}
+
+.produto {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 30%;
+}
+
+.produto h3 {
+    font-family: 'Great Vibes';
+    font-size: xx-large;
+}
+
+.imagenF {
+    display: flex;
+    justify-content: center;
+}
+
+.informacoes {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 500px;
+}
+
+.informacoes h1 {
+    font-family: 'Great Vibes';
+    font-size: xx-large;
+}
+
+.verde {
+    display: flex;
+    flex-direction: row;
+}
+
+.textinho {
+    display: flex;
+    flex-direction: column;
+}
+
+.textinho h2 {
+    font-family: 'Great Vibes';
+    font-size: xx-large;
+}
+
+.titulo2 {
+    background-color: #F0F5FF;
+    font-size: xx-large;
+    font-family: 'Great Vibes';
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    border-radius: 40px;
+    width: 550px;
+    align-content: center;
+}
+
+.container1 {
+    display: flex;
+    gap: 400px;
+    align-items: center;
+    height: 40px;
+    padding: 20px 60px;
+}
+
+.texto {
+    font-family: 'Great Vibes';
+    font-size: 65px;
+}
+
+.nome {
+    font-family: 'Great Vibes';
+    font-size: 30px;
+}
+
+.nome2 {
+    font-family: 'Great Vibes';
+    font-size: 30px;
+}
+
+.cadastro {
+    display: flex;
+}
+
+.pgcadastro {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+.entrar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.teste {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 500px;
+}
+
+input {
+    height: 40px;
+    border-radius: 20px;
+    background-color: #588547;
+    border: none;
+}
+
+button {
+    height: 40px;
+    border-radius: 20px;
+    background-color: #F0F5FF;
+    border: none;
+}
+
+@media(max-width:1200px) {
+    .produto-i {
+        width: 20%;
+    }
+
+    .promoções {
+        flex-wrap: wrap;
+    }
+}

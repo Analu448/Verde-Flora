@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        .pai{
+            display: flex ;
+            gap: 20px;
+            flex-direction: row;
+            flex-wrap: wrap;
+
+        }
+
+        .filho{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #e93278;
+            width: 400px;
+            height: 100px;
+        }
+
+        @media(max-width:830px){
+            .filho{
+                background-color: burlywood;
+                width: 150px;
+                color:cadetblue
+            }
+        
+        }
+         @media(max-width:480px){
+            .filho{
+                background-color: rgb(45, 119, 214);
+                width: 150px;
+                color:rgb(241, 176, 123)
+            }    
+
+        }
+
+    </style>
+</head>
+<body>
+    <div class="pai">
+        <div class="filho">item1</div>
+        <div class="filho">item2</div>
+        <div class="filho">item3</div>
+        <div class="filho">item4</div>
+        <div class="filho">item5</div>
+        <div class="filho">item6</div>
+        <div class="filho">item7</div>
+        <div class="filho">item8</div>
+    </div>
+
+</body>
+</html>
