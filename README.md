@@ -27,15 +27,15 @@ Para executar o projeto a pessoa precisa possuir o Vscode e uma extensão dentro
 **Demonstração:**
 Essa é a página inicial, ela apresenta uma breve descrição da loja e buquês em promoção.
 
--##*imagem página inicial*
+- ##*imagem página inicial*
 
 Essa é a página de catálogo, nela está presente todos os buquês disponíveis da loja.
 
--##*imagem catálogo*
+- ##*imagem catálogo*
 
 Essa é a página de cadastro, nela você pode se cadastrar no site e ganhar cupons de desconto.
 
--##*imagem cadastro*
+- ##*imagem cadastro*
 
 **Melhorias futuras:**
 O site pode criar um back-end funcional, com cadastro que salve as informações do usuário, página de log-in para usuários já cadastrados, as páginas de comprar serem funcionais, uma sessão para a personalização dos buquês.
