@@ -2,8 +2,11 @@
 Site de venda de flores trabalho senai
 
 **Projeto**: Verde Flora
+
 **Integrante**: Ana Luiza Guimarães de Almeida
+
 **Curso**: Informática para internet sala 2D
+
 **Professor**: Josué Rodrigo Evangelista Figueirêdo
 
 *Apresentação do Projeto*
@@ -24,11 +27,14 @@ Para executar o projeto a pessoa precisa possuir o Vscode e uma extensão dentro
 *Demonstração*:
 
 Essa é a página inicial, ela apresenta uma breve descrição da loja e buquês em promoção.
+##imagem página inicial
 
 Essa é a página de catálogo, nela está presente todos os buquês disponíveis da loja.
+##imagem catálogo
 
 Essa é a página de cadastro, nela você pode se cadastrar no site e ganhar cupons de desconto.
+##imagem cadastro
 
-Melhorias futuras
+*Melhorias futuras*
 O site pode criar um back-end funcional, com cadastro que salve as informações do usuário, página de log-in para usuários já cadastrados, as páginas de comprar serem funcionais, uma sessão para a personalização dos buquês.
 
