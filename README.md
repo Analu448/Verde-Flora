@@ -1,3 +1,4 @@
+
 # Verde-Flora
 Site de venda de flores trabalho senai
 
@@ -28,6 +29,7 @@ Para executar o projeto a pessoa precisa possuir o Vscode e uma extensão dentro
 Essa é a página inicial, ela apresenta uma breve descrição da loja e buquês em promoção.
 
 - ##*imagem página inicial*
+- <img width="150" height="150" alt="buque colorido" src="https://github.com/user-attachments/assets/18c02771-cce2-4d4c-bac9-acd079730491" />
 
 Essa é a página de catálogo, nela está presente todos os buquês disponíveis da loja.
 
