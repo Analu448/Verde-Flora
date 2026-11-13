@@ -28,16 +28,15 @@ Para executar o projeto a pessoa precisa possuir o Vscode e uma extensão dentro
 **Demonstração:**
 Essa é a página inicial, ela apresenta uma breve descrição da loja e buquês em promoção.
 
-- ##*imagem página inicial*
-- <img width="150" height="150" alt="buque colorido" src="https://github.com/user-attachments/assets/18c02771-cce2-4d4c-bac9-acd079730491" />
+<img width="1895" height="931" alt="paginainicial" src="https://github.com/user-attachments/assets/79393104-ea09-4d7d-9f24-87e556cde588" />
 
 Essa é a página de catálogo, nela está presente todos os buquês disponíveis da loja.
 
-- ##*imagem catálogo*
+<img width="1902" height="946" alt="catalogo" src="https://github.com/user-attachments/assets/9084f3a9-b883-4fef-89ef-e2ef49ea9804" />
 
 Essa é a página de cadastro, nela você pode se cadastrar no site e ganhar cupons de desconto.
 
-- ##*imagem cadastro*
+<img width="1889" height="945" alt="cadastro" src="https://github.com/user-attachments/assets/9466963a-bfca-4c8c-a73d-dc0cf44b298e" />
 
 **Melhorias futuras:**
 O site pode criar um back-end funcional, com cadastro que salve as informações do usuário, página de log-in para usuários já cadastrados, as páginas de comprar serem funcionais, uma sessão para a personalização dos buquês.
