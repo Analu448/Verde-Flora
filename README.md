@@ -25,6 +25,7 @@ Foi utilizada uma pasta geral que comportava duas outras pastas e o Visual Code.
 **Como executar o projeto?**
 Para executar o projeto a pessoa precisa possuir o Vscode e uma extensão dentro do vscode, chamada Live Server. A pessoa precisa abrir o código dentro do vscode, instalar o live server, assim que instalado a pessoa clica com o botão direito do mouse em cima da pasta do código e clicar em “abrir com live server”, assim o código abrirá uma pasta em um navegador.
 
+
 **Demonstração:**
 Essa é a página inicial, ela apresenta uma breve descrição da loja e buquês em promoção.
 
